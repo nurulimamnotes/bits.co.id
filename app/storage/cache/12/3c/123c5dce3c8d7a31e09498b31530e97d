@@ -1,0 +1,30 @@
+1421915613s:2627:"a:5:{s:5:"mtime";i:1421903994;s:7:"content";s:1250:"        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Partner Kami</h2>
+            </div>
+
+            <div class="partners">
+                <ul>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="{{ 'assets/images/partners/partner1.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="{{ 'assets/images/partners/partner2.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="{{ 'assets/images/partners/partner3.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="{{ 'assets/images/partners/partner4.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="{{ 'assets/images/partners/partner5.png'|theme }}"></a></li>
+                </ul>
+            </div>
+        </div><!--/.container-->
+";s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1241:"<div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Partner Kami</h2>
+            </div>
+
+            <div class="partners">
+                <ul>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="{{ 'assets/images/partners/partner1.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="{{ 'assets/images/partners/partner2.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="{{ 'assets/images/partners/partner3.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="{{ 'assets/images/partners/partner4.png'|theme }}"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="{{ 'assets/images/partners/partner5.png'|theme }}"></a></li>
+                </ul>
+            </div>
+        </div><!--/.container-->";}";

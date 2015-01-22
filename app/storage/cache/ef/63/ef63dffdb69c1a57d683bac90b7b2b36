@@ -1,0 +1,36 @@
+1421915613s:2224:"a:5:{s:5:"mtime";i:1421903994;s:7:"content";s:1046:"==
+<div id="cwrap">
+    <div class="container">
+        <div class="row centered">
+        <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">Client Kami</h2>
+                <p class="text-center wow fadeInDown">Beberapa daftar client populer kami yang sangat bangga menggunakan jasa kami</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client01.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client02.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client03.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client04.png'|theme }}" class="img-responsive"></div>
+        </div>
+    </div>
+</div>";s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1042:"<div id="cwrap">
+    <div class="container">
+        <div class="row centered">
+        <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">Client Kami</h2>
+                <p class="text-center wow fadeInDown">Beberapa daftar client populer kami yang sangat bangga menggunakan jasa kami</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client01.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client02.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client03.png'|theme }}" class="img-responsive"></div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ 'assets/images/clients/client04.png'|theme }}" class="img-responsive"></div>
+        </div>
+    </div>
+</div>";}";

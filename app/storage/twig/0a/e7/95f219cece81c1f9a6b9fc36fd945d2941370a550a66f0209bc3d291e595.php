@@ -1,0 +1,156 @@
+<?php
+
+/* /home/server/public_html/themes/bits/partials/harga.htm */
+class __TwigTemplate_0ae795f219cece81c1f9a6b9fc36fd945d2941370a550a66f0209bc3d291e595 extends Twig_Template
+{
+    public function __construct(Twig_Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = array(
+        );
+    }
+
+    protected function doDisplay(array $context, array $blocks = array())
+    {
+        // line 1
+        echo "<div class=\"container\">
+            <div class=\"section-header\">
+                <h2 class=\"section-title text-center wow fadeInDown\">Paket Web Development</h2>
+                <p class=\"text-center wow fadeInDown\">Silahkan pilih paket Web Development yang diinginkan <br> Konsultasikan kepada tim bantuan kami untuk menentukan paket yang sesuai dengan kebutuhan anda</p>
+            </div>
+
+            <div class=\"row\">
+                <div class=\"col-sm-6 col-md-3\">
+                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"400ms\">
+                        <ul class=\"pricing\">
+                            <li class=\"plan-header\">
+                                <div class=\"price-duration\">
+                                    <span class=\"price\">
+                                        Nego
+                                    </span>
+                                    <span class=\"duration\">
+                                        per tahun
+                                    </span>
+                                </div>
+
+                                <div class=\"plan-name\">
+                                    Budget
+                                </div>
+                            </li>
+                            <li><strong>1</strong> DOMAIN</li>
+                            <li><strong>?</strong> DISK SPACE</li>
+                            <li><strong>?</strong> BANDWIDTH</li>
+                            <li><strong>?</strong> AKUN EMAIL</li>
+                            <li>STATIS/ CMS / CUSTOM SCRIPT</li>
+                            <li>STANDARD / CUSTOM TEMPLATE</li>
+                            <li>REQUEST WAKTU PERAWATAN</li>
+                            <li><strong>?</strong> BANTUAN</li>
+                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">Pesan</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class=\"col-sm-6 col-md-3\">
+                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"0ms\">
+                        <ul class=\"pricing\">
+                            <li class=\"plan-header\">
+                                <div class=\"price-duration\">
+                                    <span class=\"price\">
+                                        250k
+                                    </span>
+                                    <span class=\"duration\">
+                                        per bulan
+                                    </span>
+                                </div>
+
+                                <div class=\"plan-name\">
+                                    Hemat
+                                </div>
+                            </li>
+                            <li><strong>1</strong> DOMAIN</li>
+                            <li><strong>250MB</strong> DISK SPACE</li>
+                            <li><strong>10GB</strong> BANDWIDTH</li>
+                            <li><strong>3</strong> AKUN EMAIL</li>
+                            <li>CMS WORDPRESS &amp; CONCRETE5</li>
+                            <li>DESAIN TEMPLATE STANDARD</li>
+                            <li>PERAWATAN 3 BULAN</li>
+                            <li><strong>7 HARI</strong> BANTUAN</li>
+                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">PESAN</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class=\"col-sm-6 col-md-3\">
+                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"200ms\">
+                        <ul class=\"pricing featured\">
+                            <li class=\"plan-header\">
+                                <div class=\"price-duration\">
+                                    <span class=\"price\">
+                                        500k
+                                    </span>
+                                    <span class=\"duration\">
+                                        per bulan
+                                    </span>
+                                </div>
+
+                                <div class=\"plan-name\">
+                                    Profesional
+                                </div>
+                            <li><strong>1</strong> DOMAIN</li>
+                            <li><strong>250MB</strong> DISK SPACE</li>
+                            <li><strong>10GB</strong> BANDWIDTH</li>
+                            <li><strong>3</strong> AKUN EMAIL</li>
+                            <li>OCTOBERCMS &amp; LARAVEL</li>
+                            <li>DESAIN TEMPLATE PREMIUM</li>
+                            <li>RESPONSIVE WEB DESIGN</li>
+                            <li>PERAWATAN 1 TAHUN</li>
+                            <li><strong>30 HARI</strong> BANTUAN</li>
+                            <li class=\"plan-purchase\"><a class=\"btn btn-default\" href=\"#\">PESAN</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class=\"col-sm-6 col-md-3\">
+                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"600ms\">
+                        <ul class=\"pricing\">
+                            <li class=\"plan-header\">
+                                <div class=\"price-duration\">
+                                    <span class=\"price\">
+                                        1000k
+                                    </span>
+                                    <span class=\"duration\">
+                                        per bulan
+                                    </span>
+                                </div>
+
+                                <div class=\"plan-name\">
+                                    Enterprise
+                                </div>
+                            </li>
+                            <li><strong>UNLIMITED</strong> DOMAIN</li>
+                            <li><strong>UNLIMITED</strong> DISK SPACE</li>
+                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
+                            <li><strong>UNLIMITED</strong> AKUN EMAIL</li>
+                            <li>LARAVEL &amp; MAGENTO</li>
+                            <li>REQUEST DESAIN TEMPLATE</li>
+                            <li>RESPONSIVE WEB DESIGN</li>
+                            <li>PERAWATAN 1 TAHUN</li>
+                            <li><strong>LIFETIME</strong> BANTUAN</li>
+                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">PESAN</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>";
+    }
+
+    public function getTemplateName()
+    {
+        return "/home/server/public_html/themes/bits/partials/harga.htm";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  19 => 1,);
+    }
+}
